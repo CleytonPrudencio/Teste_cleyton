@@ -585,7 +585,7 @@ h1, h2, h3, h4, h5, h6,
 *******************************************************************
 */
 
-.form-widget .form-control {
+.form-widget-1 .form-control {
 	border-radius: 0;
 	background-color: transparent;
 	border-color: rgba(255,255,255,0.1);
@@ -594,7 +594,7 @@ h1, h2, h3, h4, h5, h6,
 	padding-left: 42px;
 	color: #fff;
 }
-.form-widget .form-group .icon {
+.form-widget-1 .form-group .icon {
 	position: absolute;
     height: 50px;
     width: 50px;
@@ -608,14 +608,14 @@ h1, h2, h3, h4, h5, h6,
 .form-widget .form-control:-ms-input-placeholder { letter-spacing: 1.3px; color: rgba(255,255,255,0.8);}
 
 /*----------  FORM-1  ----------*/
-.form-widget-1 .form-group .icon{
+.form-widget .form-group .icon{
 	position: absolute;
     height: 50px;
     width: 50px;
     font-size: 18px;
     color: #f7bc10;
 }
-.form-widget-1 .form-control { padding-left: 42px; }
+.form-widget .form-control { padding-left: 42px; }
 
 
 /**
