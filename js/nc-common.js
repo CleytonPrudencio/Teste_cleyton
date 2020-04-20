@@ -662,7 +662,7 @@ nc.common = function() {
 		});
 	}
 	
-	/*----------  FORM  ----------*/
+	/*----------  FORM  ----------
 	if (nc.elcheck(".form-widget")) {
 		$(".form-widget").each(function(index, el) {
 			nc.formWidget(this);
@@ -697,7 +697,7 @@ nc.common = function() {
 			});
 		});
 	}
-}
+}*/
 
 ;(function(){
 	'use strict';
